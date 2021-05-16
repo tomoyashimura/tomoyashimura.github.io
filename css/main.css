@@ -65,8 +65,8 @@ li
 .container
 {
     overflow: auto;
-    width: 1500px;
-    #max-width: 1680px;
+    
+    max-width: 680px;
     padding: 0 15px;
 }
 .content
