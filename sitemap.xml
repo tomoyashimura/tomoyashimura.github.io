@@ -2,37 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://tomoyashimura.github.io/publications/03_etc/</loc>
+    <loc>http://localhost:1313/publications/03_etc/</loc>
   </url><url>
-    <loc>https://tomoyashimura.github.io/publications/02_journal_jp/</loc>
+    <loc>http://localhost:1313/publications/02_journal_jp/</loc>
   </url><url>
-    <loc>https://tomoyashimura.github.io/publications/01_journal/</loc>
+    <loc>http://localhost:1313/publications/01_journal/</loc>
   </url><url>
-    <loc>https://tomoyashimura.github.io/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
     <lastmod>2021-01-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://tomoyashimura.github.io/posts/first/</loc>
+    <loc>http://localhost:1313/posts/first/</loc>
     <lastmod>2021-01-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://tomoyashimura.github.io/tags/homepage/</loc>
+    <loc>http://localhost:1313/tags/homepage/</loc>
     <lastmod>2021-01-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://tomoyashimura.github.io/categories/note/</loc>
+    <loc>http://localhost:1313/categories/note/</loc>
     <lastmod>2021-01-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://tomoyashimura.github.io/posts/</loc>
+    <loc>http://localhost:1313/posts/</loc>
     <lastmod>2021-01-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://tomoyashimura.github.io/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2021-01-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://tomoyashimura.github.io/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2021-01-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://tomoyashimura.github.io/about/about_jp/</loc>
+    <loc>http://localhost:1313/about/about_jp/</loc>
   </url><url>
-    <loc>https://tomoyashimura.github.io/about/</loc>
+    <loc>http://localhost:1313/about/</loc>
   </url><url>
-    <loc>https://tomoyashimura.github.io/publications/</loc>
+    <loc>http://localhost:1313/publications/</loc>
   </url>
 </urlset>
