@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Tomoya Shimura</title>
-    <link>http://localhost:1313/categories/</link>
+    <link>https://tomoyashimura.github.io/categories/</link>
     <description>Recent content in Categories on Tomoya Shimura</description>
     <generator>Hugo</generator>
     <language>ja-JP</language>
     <lastBuildDate>Mon, 11 Jan 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tomoyashimura.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Note</title>
-      <link>http://localhost:1313/categories/note/</link>
+      <link>https://tomoyashimura.github.io/categories/note/</link>
       <pubDate>Mon, 11 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/note/</guid>
+      <guid>https://tomoyashimura.github.io/categories/note/</guid>
       <description></description>
     </item>
   </channel>

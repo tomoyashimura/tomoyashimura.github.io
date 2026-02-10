@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homepage on Tomoya Shimura</title>
-    <link>http://localhost:1313/tags/homepage/</link>
+    <link>https://tomoyashimura.github.io/tags/homepage/</link>
     <description>Recent content in Homepage on Tomoya Shimura</description>
     <generator>Hugo</generator>
     <language>ja-JP</language>
     <lastBuildDate>Mon, 11 Jan 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/homepage/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tomoyashimura.github.io/tags/homepage/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Home page</title>
-      <link>http://localhost:1313/posts/first/</link>
+      <link>https://tomoyashimura.github.io/posts/first/</link>
       <pubDate>Mon, 11 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/first/</guid>
+      <guid>https://tomoyashimura.github.io/posts/first/</guid>
       <description></description>
     </item>
   </channel>
